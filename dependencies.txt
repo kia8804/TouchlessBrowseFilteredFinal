@@ -1,0 +1,7 @@
+pip install PyAudio
+pip install pydub
+pip install keyboard
+
+
+pip install pygaze
+pip install psychopy
